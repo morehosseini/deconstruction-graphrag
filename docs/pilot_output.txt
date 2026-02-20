@@ -1,0 +1,90 @@
+🔹 Loading: 1.national-waste-and-resource-recovery-report-2024.pdf...
+🔹 Split into 297 chunks.
+🔹 Generating embeddings...
+
+🔎 DIAGNOSTIC RESULTS (Top 3 matches per query):
+============================================================
+
+Query: 'building deconstruction and disassembly methods'
+   Score: 1.1040 | ❌ REJECT (Too strict?)
+   Snippet: Built 
+environment  
+Guidelines and resources  are emerging  for preventing  waste in the design, operation and 
+deconstruction of buildings and infra...
+----------------------------------------
+   Score: 1.1384 | ❌ REJECT (Too strict?)
+   Snippet: refurbished options. Packaging reuse is also a focus, with some established services for 
+business-to-business secondary and tertiary packaging. Enter...
+----------------------------------------
+   Score: 1.2735 | ❌ REJECT (Too strict?)
+   Snippet: redirect s wearable clothing back into use (Seamless 2024).  Clothing chain Kathmandu ha s 
+established Kathman-redu, a clothing take -back, repair an...
+----------------------------------------
+
+Query: 'salvage of structural materials like timber and steel'
+   Score: 0.9652 | ❌ REJECT (Too strict?)
+   Snippet: National waste and resource recovery report 2024  – Final Page x 
+Reuse reallocation of products or materials to a new owner or purpose without reproc...
+----------------------------------------
+   Score: 1.0127 | ❌ REJECT (Too strict?)
+   Snippet: estimated resource recovery rates were highest for metals (90%) and building and demolition 
+materials (84%). The recovery rate for plastics was the l...
+----------------------------------------
+   Score: 1.0710 | ❌ REJECT (Too strict?)
+   Snippet: 7.1 Resource recovery rates, 2022–23................................ ................................ ...............  38 
+7.2 Trends in resource reco...
+----------------------------------------
+
+Query: 'selective demolition practices'
+   Score: 1.1243 | ❌ REJECT (Too strict?)
+   Snippet: This material category includes heavy waste types such as concrete, bricks and rubble and is mostly 
+recorded in the C&D stream. Building and demoliti...
+----------------------------------------
+   Score: 1.1674 | ❌ REJECT (Too strict?)
+   Snippet: deliver high quality recovered product at a reasonable 
+cost. In 2018 NSW banned the deposit of the processed 
+organic material on land, and most is n...
+----------------------------------------
+   Score: 1.2009 | ❌ REJECT (Too strict?)
+   Snippet: Built 
+environment  
+Guidelines and resources  are emerging  for preventing  waste in the design, operation and 
+deconstruction of buildings and infra...
+----------------------------------------
+
+Query: 'regulatory barriers to deconstruction'
+   Score: 1.2883 | ❌ REJECT (Too strict?)
+   Snippet: Built 
+environment  
+Guidelines and resources  are emerging  for preventing  waste in the design, operation and 
+deconstruction of buildings and infra...
+----------------------------------------
+   Score: 1.3427 | ❌ REJECT (Too strict?)
+   Snippet: landfill. Typically, MRFs send waste to landfill when materials are: 
+• not recyclable and should not have been put in the recycling bin...
+----------------------------------------
+   Score: 1.3530 | ❌ REJECT (Too strict?)
+   Snippet: National waste and resource recovery report 2024  – Final Page 19 
+3. Waste prevention  
+3.1 What is waste prevention? 
+Waste prevention is any delibe...
+----------------------------------------
+
+Query: 'material recovery from demolition'
+   Score: 0.6940 | ❌ REJECT (Too strict?)
+   Snippet: estimated resource recovery rates were highest for metals (90%) and building and demolition 
+materials (84%). The recovery rate for plastics was the l...
+----------------------------------------
+   Score: 0.7605 | ❌ REJECT (Too strict?)
+   Snippet: This material category includes heavy waste types such as concrete, bricks and rubble and is mostly 
+recorded in the C&D stream. Building and demoliti...
+----------------------------------------
+   Score: 0.8483 | ❌ REJECT (Too strict?)
+   Snippet: National waste and resource recovery report 2024  – Final Page 26 
+• improperly presented, for example inside a plastic bag 
+• too small, for example ...
+----------------------------------------
+============================================================
+💡 RECOMMENDATION:
+The best match had a score of 0.6940.
+👉 Change your threshold in the final script to: 0.79

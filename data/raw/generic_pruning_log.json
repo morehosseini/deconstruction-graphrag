@@ -1,0 +1,132 @@
+[
+  {
+    "node_id": "ent:1b7cbb6213dcca1f",
+    "entity_type": "Authority",
+    "name": "Government"
+  },
+  {
+    "node_id": "ent:5d7b932998db6228",
+    "entity_type": "Barrier",
+    "name": "Waste"
+  },
+  {
+    "node_id": "ent:3c6517e9857f804d",
+    "entity_type": "Enabler",
+    "name": "Circular Economy Principles"
+  },
+  {
+    "node_id": "ent:14f3a87bcc5640c2",
+    "entity_type": "Enabler",
+    "name": "Innovation"
+  },
+  {
+    "node_id": "ent:f766bf6a682a6bbd",
+    "entity_type": "Enabler",
+    "name": "Markets"
+  },
+  {
+    "node_id": "ent:8b7c9026ff4af7e6",
+    "entity_type": "Instrument",
+    "name": "Circular Economy"
+  },
+  {
+    "node_id": "ent:9ca277f6bca84444",
+    "entity_type": "Instrument",
+    "name": "Regulations"
+  },
+  {
+    "node_id": "ent:e57884eb712271b9",
+    "entity_type": "Jurisdiction",
+    "name": "Built Environment"
+  },
+  {
+    "node_id": "ent:f78812916b05a3fe",
+    "entity_type": "Jurisdiction",
+    "name": "Construction Industry"
+  },
+  {
+    "node_id": "ent:6774126c237b472a",
+    "entity_type": "MaterialAsset",
+    "name": "Products"
+  },
+  {
+    "node_id": "ent:bebcad6af16af44f",
+    "entity_type": "MaterialAsset",
+    "name": "Infrastructure"
+  },
+  {
+    "node_id": "ent:4a17b22a5c6d0eaa",
+    "entity_type": "MaterialAsset",
+    "name": "Materials"
+  },
+  {
+    "node_id": "ent:44862a8266f3d040",
+    "entity_type": "MaterialAsset",
+    "name": "Buildings"
+  },
+  {
+    "node_id": "ent:b9c8db76ac98d1ed",
+    "entity_type": "MaterialAsset",
+    "name": "Built Environment"
+  },
+  {
+    "node_id": "ent:2698111ea8aae4a7",
+    "entity_type": "OutcomeMetric",
+    "name": "Sustainability"
+  },
+  {
+    "node_id": "ent:446f073247b24b94",
+    "entity_type": "Practice",
+    "name": "Construction"
+  },
+  {
+    "node_id": "ent:5fc5c800520dd000",
+    "entity_type": "Practice",
+    "name": "Recycling"
+  },
+  {
+    "node_id": "ent:c984a0e5e3e19aa3",
+    "entity_type": "Practice",
+    "name": "Redesign"
+  },
+  {
+    "node_id": "ent:0447fc3f04674f0f",
+    "entity_type": "Practice",
+    "name": "Reduce"
+  },
+  {
+    "node_id": "ent:ecf5483eec4f768f",
+    "entity_type": "Practice",
+    "name": "Repair"
+  },
+  {
+    "node_id": "ent:8da92e37559a0353",
+    "entity_type": "Practice",
+    "name": "Resource Management"
+  },
+  {
+    "node_id": "ent:817dd621d2d566f4",
+    "entity_type": "Practice",
+    "name": "Rethink"
+  },
+  {
+    "node_id": "ent:6e767785b13e05b5",
+    "entity_type": "Practice",
+    "name": "Reuse"
+  },
+  {
+    "node_id": "ent:418708269087ad51",
+    "entity_type": "Practice",
+    "name": "Waste Management"
+  },
+  {
+    "node_id": "ent:19f7ef4697dba4a3",
+    "entity_type": "Stakeholder",
+    "name": "Community"
+  },
+  {
+    "node_id": "ent:683865b4972706ee",
+    "entity_type": "Stakeholder",
+    "name": "Stakeholders"
+  }
+]

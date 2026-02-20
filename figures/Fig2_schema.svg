@@ -1,0 +1,146 @@
+<svg width="1000" height="600" viewBox="0 0 1000 600" xmlns="http://www.w3.org/2000/svg">
+<!-- Background -->
+<rect width="1000" height="600" fill="#ffffff" />
+
+<defs>
+<marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+<polygon points="0 0, 10 3.5, 0 7" fill="#666" />
+</marker>
+
+<!-- Styles for boxes and text -->
+<style>
+  .entity-box { stroke-width: 0.5; stroke: #999; }
+  .label-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: bold; font-size: 14px; text-anchor: middle; }
+  .count-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 12px; fill: #666; text-anchor: middle; }
+  .rel-text { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 10px; fill: #444; text-anchor: middle; font-style: italic; }
+  .rel-text-left { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 10px; fill: #444; text-anchor: end; font-style: italic; }
+  .rel-text-right { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 10px; fill: #444; text-anchor: start; font-style: italic; }
+  .arrow { stroke: #666; stroke-width: 1; fill: none; marker-end: url(#arrowhead); }
+</style>
+
+
+</defs>
+
+<!-- ENTITIES -->
+
+<!-- Row 1: Authority, Instrument, Jurisdiction -->
+
+<g id="Authority" transform="translate(50, 50)">
+<rect width="180" height="80" rx="10" fill="#d9eaf7" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#1d4e89">Authority</text>
+<text x="90" y="60" class="count-text">n = 98</text>
+</g>
+
+<g id="Instrument" transform="translate(320, 50)">
+<rect width="180" height="80" rx="10" fill="#d1d7e0" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#1d4e89">Instrument</text>
+<text x="90" y="60" class="count-text">n = 245</text>
+</g>
+
+<g id="Jurisdiction" transform="translate(600, 50)">
+<rect width="180" height="80" rx="10" fill="#d9eaf7" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#1d4e89">Jurisdiction</text>
+<text x="90" y="60" class="count-text">n = 41</text>
+</g>
+
+<!-- Middle Section: Enabler, Practice, Requirement -->
+
+<g id="Enabler" transform="translate(50, 230)">
+<rect width="180" height="80" rx="10" fill="#e2f3eb" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#2d6a4f">Enabler</text>
+<text x="90" y="60" class="count-text">n = 74</text>
+</g>
+
+<g id="Practice" transform="translate(320, 230)">
+<rect width="180" height="80" rx="10" fill="#c7e9d1" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#1b4332">Practice</text>
+<text x="90" y="60" class="count-text">n = 428</text>
+</g>
+
+<g id="Requirement" transform="translate(600, 180)">
+<rect width="180" height="80" rx="10" fill="#fae1cc" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#d68c45">Requirement</text>
+<text x="90" y="60" class="count-text">n = 136</text>
+</g>
+
+<!-- Bottom Row: Barrier, Stakeholder, MaterialAsset, OutcomeMetric -->
+
+<g id="Barrier" transform="translate(50, 430)">
+<rect width="180" height="80" rx="10" fill="#f9dada" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#a4161a">Barrier</text>
+<text x="90" y="60" class="count-text">n = 120</text>
+</g>
+
+<g id="Stakeholder" transform="translate(320, 430)">
+<rect width="180" height="80" rx="10" fill="#ece2f0" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#4d194d">Stakeholder</text>
+<text x="90" y="60" class="count-text">n = 140</text>
+</g>
+
+<g id="MaterialAsset" transform="translate(590, 430)">
+<rect width="180" height="80" rx="10" fill="#e9e0d1" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#582f0e">MaterialAsset</text>
+<text x="90" y="60" class="count-text">n = 245</text>
+</g>
+
+<g id="OutcomeMetric" transform="translate(720, 280)">
+<rect width="180" height="80" rx="10" fill="#fff9db" class="entity-box" />
+<text x="90" y="40" class="label-text" fill="#d4a017">OutcomeMetric</text>
+<text x="90" y="60" class="count-text">n = 115</text>
+</g>
+
+<!-- RELATIONSHIPS -->
+
+<!-- Instrument to Authority -->
+
+<line x1="320" y1="90" x2="230" y2="90" class="arrow" />
+<text x="275" y="80" class="rel-text">ISSUED_BY</text>
+
+<!-- Instrument to Jurisdiction -->
+
+<line x1="500" y1="90" x2="600" y2="90" class="arrow" />
+<text x="550" y="80" class="rel-text">APPLIES_IN</text>
+
+<!-- Instrument to Practice (Split Relationships) -->
+
+<line x1="400" y1="130" x2="400" y2="230" class="arrow" />
+<text x="395" y="180" class="rel-text-left">PROHIBITS</text>
+<line x1="420" y1="130" x2="420" y2="230" class="arrow" />
+<text x="425" y="180" class="rel-text-right">ENABLES</text>
+
+<!-- Instrument to Requirement -->
+
+<line x1="500" y1="110" x2="600" y2="185" class="arrow" />
+<text x="565" y="135" class="rel-text" transform="rotate(25, 565, 135)">REQUIRES</text>
+
+<!-- Enabler to Practice -->
+
+<line x1="230" y1="270" x2="320" y2="270" class="arrow" />
+<text x="275" y="260" class="rel-text">ENABLES</text>
+
+<!-- Practice to Requirement -->
+
+<line x1="500" y1="250" x2="600" y2="230" class="arrow" />
+<text x="550" y="235" class="rel-text">APPLIES_TO</text>
+
+<!-- Practice to Outcome -->
+
+<line x1="500" y1="280" x2="720" y2="310" class="arrow" />
+<text x="610" y="290" class="rel-text">PRODUCES</text>
+
+<!-- Barrier to Practice -->
+
+<line x1="180" y1="430" x2="320" y2="310" class="arrow" />
+<text x="230" y="360" class="rel-text">BARRIERS</text>
+
+<!-- Stakeholder to Practice -->
+
+<line x1="410" y1="430" x2="410" y2="310" class="arrow" />
+<text x="425" y="375" class="rel-text-right">INVOLVES</text>
+
+<!-- MaterialAsset to Practice -->
+
+<line x1="590" y1="430" x2="490" y2="310" class="arrow" />
+<text x="555" y="365" class="rel-text">INVOLVES</text>
+
+</svg>

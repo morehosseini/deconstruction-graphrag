@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-02-13T00:53:39.112107",
+  "output_directory": "/content/drive/MyDrive/ACTIVE/AU_deconstruction_domain/data_analysis/6_presentation",
+  "figures": {
+    "fig1_architecture.pdf": 45.6,
+    "fig1_architecture.png": 427.3,
+    "fig2_schema.pdf": 36.4,
+    "fig2_schema.png": 268.3,
+    "fig3_dashboard.pdf": 41.4,
+    "fig3_dashboard.png": 466.2,
+    "fig4_dfd_pathway.pdf": 44.3,
+    "fig4_dfd_pathway.png": 956.2,
+    "fig5_jurisdiction_heatmap.pdf": 50.0,
+    "fig5_jurisdiction_heatmap.png": 693.7,
+    "fig6_gap_analysis.pdf": 32.9,
+    "fig6_gap_analysis.png": 331.8,
+    "fig7_demo_cards.pdf": 48.8,
+    "fig7_demo_cards.png": 767.1
+  },
+  "summary": {}
+}

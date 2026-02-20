@@ -1,0 +1,1104 @@
+{
+  "demo_1_dfd_pathway": {
+    "question": "What instruments govern Design for Disassembly in Australia?",
+    "structured_result": {
+      "query_type": "governance_pathway",
+      "practice": "Design for Disassembly (DfD)",
+      "practice_type": "Practice",
+      "jurisdiction_filter": "Australia",
+      "instruments": [
+        {
+          "instrument": "National Circular Design Standards",
+          "predicate": "REQUIRES",
+          "authorities": [],
+          "jurisdictions": [
+            "Australia"
+          ]
+        },
+        {
+          "instrument": "Government Policies",
+          "predicate": "REQUIRES",
+          "authorities": [],
+          "jurisdictions": [
+            "Australia"
+          ]
+        }
+      ],
+      "requirements": [
+        {
+          "name": "System accessibility for end-of-life removal",
+          "predicate": "ENABLES"
+        }
+      ],
+      "enablers": [
+        {
+          "name": "Information Availability"
+        },
+        {
+          "name": "Financial Incentives for Design"
+        },
+        {
+          "name": "drivers"
+        }
+      ],
+      "barriers": [
+        {
+          "name": "Higher Material Quantities for First Use"
+        },
+        {
+          "name": "Challenges"
+        }
+      ],
+      "outcomes": [
+        {
+          "name": "Circularity in the Built Environment"
+        },
+        {
+          "name": "Material Efficiency"
+        },
+        {
+          "name": "Cost Efficiency"
+        },
+        {
+          "name": "Material Reuse Rate"
+        },
+        {
+          "name": "Material Reuse Rate"
+        },
+        {
+          "name": "Material Reuse Rate"
+        },
+        {
+          "name": "Material Reuse Rate"
+        },
+        {
+          "name": "Material Reuse Rate"
+        },
+        {
+          "name": "Resource Recovery Rate"
+        },
+        {
+          "name": "Resource Recovery Rate"
+        },
+        {
+          "name": "Resource Efficiency"
+        },
+        {
+          "name": "Resource Efficiency"
+        },
+        {
+          "name": "Resource Reduction"
+        },
+        {
+          "name": "Cost"
+        },
+        {
+          "name": "Embodied Carbon"
+        },
+        {
+          "name": "Embodied Carbon"
+        },
+        {
+          "name": "Embodied Carbon"
+        },
+        {
+          "name": "Material Recovery"
+        },
+        {
+          "name": "Material Recovery"
+        },
+        {
+          "name": "Lifespan"
+        },
+        {
+          "name": "Material Extraction"
+        },
+        {
+          "name": "Residual Salvage Value Assessment"
+        },
+        {
+          "name": "Job Creation"
+        }
+      ],
+      "evidence": [
+        {
+          "text": "- When relevant, integrate \"adaptability\"-related information within the\nbuilding's Material Passport document\n\nProject Reference\n\f\n\n[PAGE 26]\n5. Design for Disassembly\n\n \n\nDescription\n\nThis strategy aims at enabling the disassembly potential at end of\nservice life. The useful life of some components in buildings outlast\ntheir service life as part of a system. It is important to design upfront for\nthe practical disassembly of components in order to recover residual\nvalue at end of their service ",
+          "source": "70.The Reuse Playbook - Circular Buildings design.pdf",
+          "page": "26"
+        },
+        {
+          "text": "[PAGE 77]\nDra$ for Discussion 5 September 2023\nCri1cal Juncture 8: Disassembly and Recovery\nWhat is our ambi:on?\nTo encourage more sustainable development by avoiding demoli/on and selec/ve disassembly or\ndeconstruc/ng where required to maximise reuse and recycling of materials\nTo enable and encourage informed sustainable disassembly prac/ces by trea/ng buildings and\ninfrastructure as material banks. The implementa/on of a circular economy culture by u/lising\nselec/ve disassembly techniques and ",
+          "source": "41.Circular Economy Guidance for the Irish Construction Sector (For peer review) (5.9.2023).pdf",
+          "page": "77"
+        },
+        {
+          "text": "[PAGE 33]\nEnd of use - • Ensure any final repair and maintenance work is carried out in line with operations and maintenance manuals to ensure the\nbest outcomes of the systems for future reuse. Ensure disassembly considers planned next strategy ie reuse, adaptation,\nProcurement\ne recycling\ng\nclauses a u • Contact marketplaces to understand opportunities for elements to be purchased. Understand how value can be maximised –\ng\nn Disassembly and deconstruction refer to budget as necessary to confirm",
+          "source": "47.gbca-a-practical-guide-to-circular-procurement.pdf",
+          "page": "33"
+        },
+        {
+          "text": "[PAGE 25]\nDesign -\n• Collaborate with stakeholders to reduce material use and specify lighter, space-efficient materials.\nProcurement\nDematerialisation • Design layouts that use less material without sacrificing space or functionality\nclauses • Explore alternative materials with higher strength-to-weight ratios to reduce overall material volume\n• Ensure system accessibility for easy removal of wiring, plumbing, and components at end-of-life or during maintenance.\n• Prioritise mechanical fastener",
+          "source": "47.gbca-a-practical-guide-to-circular-procurement.pdf",
+          "page": "25"
+        },
+        {
+          "text": "Level(s)\n\nDGBC - Circular Buildings\n\nProject Reference\n\nQuay Quarter Tower\n\f\n\n[PAGE 29]\n5.3 Develop and issue a Disassembly Manual Document for the building\n\nDescription\n\nA building can be designed in a way that it can be disassembled into\nits components. However, if the information on how this process is to\neffectiviely done is not transferred to the building owner/operators,\nthen the disassembly potential embedded in the design can end up\nnot actually being used.\n\nProviding asset owners and fa",
+          "source": "70.The Reuse Playbook - Circular Buildings design.pdf",
+          "page": "29"
+        }
+      ],
+      "summary_counts": {
+        "instruments": 2,
+        "requirements": 1,
+        "enablers": 3,
+        "barriers": 2,
+        "outcomes": 23
+      }
+    },
+    "answer": "# Design for Disassembly (DfD) Governance in Australia\n\nBased on the structured knowledge graph data and evidence provided, the governance of Design for Disassembly practices in Australia operates through the following instruments and requirements:\n\n## Governing Instruments\n\nTwo primary policy instruments govern DfD practices in Australia:\n\n1. **National Circular Design Standards** - This instrument formally REQUIRES Design for Disassembly practices [Source: Knowledge graph data, Australia jurisdiction]\n\n2. **Government Policies** - These also REQUIRE DfD implementation [Source: Knowledge graph data, Australia jurisdiction]\n\n**Important limitation**: The provided data does not specify which particular government policies or the issuing authorities for these instruments. The knowledge graph indicates empty authority fields for both instruments, meaning the specific government departments or agencies responsible for these requirements cannot be determined from the available data.\n\n## Specific Requirements\n\nThe data identifies one explicit requirement that enables DfD:\n\n**System accessibility for end-of-life removal** - This requirement mandates that building systems must be designed to allow easy removal of components at end-of-life or during maintenance [Source: Knowledge graph data; 47.gbca-a-practical-guide-to-circular-procurement.pdf, p.25]\n\nThe procurement guidance document elaborates: \"Ensure system accessibility for easy removal of wiring, plumbing, and components at end-of-life or during maintenance. Prioritise mechanical fastener[s]\" [Source: 47.gbca-a-practical-guide-to-circular-procurement.pdf, p.25]\n\n## DfD Practice Objectives\n\nThe evidence indicates that DfD aims to achieve specific outcomes:\n\n**Primary objective**: \"This strategy aims at enabling the disassembly potential at end of service life. The useful life of some components in buildings outlast their service life as part of a system. It is important to design upfront for the practical disassembly of components in order to recover residual value at end of their service\" [Source: 70.The Reuse Playbook - Circular Buildings design.pdf, p.26]\n\n## Implementation Mechanisms\n\nThe evidence reveals two key implementation mechanisms:\n\n1. **Material Passport Integration**: \"When relevant, integrate 'adaptability'-related information within the building's Material Passport document\" [Source: 70.The Reuse Playbook - Circular Buildings design.pdf, p.26]\n\n2. **Disassembly Manual Documentation**: \"Develop and issue a Disassembly Manual Document for the building... if the information on how this process is to effectiviely done is not transferred to the building owner/operators, then the disassembly potential embedded in the design can end up not actually being used\" [Source: 70.The Reuse Playbook - Circular Buildings design.pdf, p.29]\n\n## Governance Enablers and Barriers\n\nThe knowledge graph identifies three enablers supporting DfD implementation:\n- Information Availability\n- Financial Incentives for Design\n- Drivers (unspecified)\n\nTwo barriers are noted:\n- Higher Material Quantities for First Use\n- Challenges (unspecified)\n\n## Data Limitations\n\n**Critical gaps in the provided data**:\n\n1. **No specific legislative references**: The data does not cite specific Acts, Regulations, or statutory instruments\n2. **No authority identification**: The issuing government bodies are not specified\n3. **No jurisdictional detail**: Whether these apply at federal, state, or territory level is unclear\n4. **No enforcement mechanisms**: Compliance requirements and penalties are not documented\n5. **No temporal information**: Effective dates and implementation timelines are absent\n\nThe evidence provided appears to draw primarily from guidance documents (Green Building Council of Australia materials, circular economy playbooks) rather than binding regulatory instruments. To provide a complete governance analysis, access to actual legislative texts, building codes, and regulatory frameworks would be necessary.\n\n## Conclusion\n\nWhile the data confirms that Design for Disassembly is governed by National Circular Design Standards and Government Policies in Australia, with specific requirements for system accessibility, the available evidence is insufficient to provide a comprehensive regulatory analysis. The documents provided offer practice guidance rather than detailed regulatory frameworks, limiting the ability to fully characterize the mandatory versus voluntary nature of these requirements, their enforcement, or their specific application across Australian jurisdictions."
+  },
+  "demo_2_jurisdiction_comparison": {
+    "question": "How do Victoria, NSW, and Queensland compare in circular economy instruments?",
+    "structured_result": {
+      "query_type": "jurisdictional_comparison",
+      "jurisdictions": [
+        "Victoria",
+        "New South Wales",
+        "Queensland"
+      ],
+      "dimension": "Instrument",
+      "entity_counts": {
+        "Victoria": 3,
+        "New South Wales": 3,
+        "Queensland": 0
+      },
+      "coverage_matrix": {
+        "Circular Economy Market Report": {
+          "Victoria": true,
+          "New South Wales": false,
+          "Queensland": false
+        },
+        "Future Transport Strategy 2056": {
+          "Victoria": false,
+          "New South Wales": true,
+          "Queensland": false
+        },
+        "NSW Circular Economy Policy Statement": {
+          "Victoria": false,
+          "New South Wales": true,
+          "Queensland": false
+        },
+        "NSW Waste and Sustainable Materials Strategy 2041": {
+          "Victoria": false,
+          "New South Wales": true,
+          "Queensland": false
+        },
+        "Recycled First Policy": {
+          "Victoria": true,
+          "New South Wales": false,
+          "Queensland": false
+        },
+        "Recycling Victoria: A New Economy (2020)": {
+          "Victoria": true,
+          "New South Wales": false,
+          "Queensland": false
+        }
+      },
+      "shared_entities": [],
+      "unique_entities": {
+        "Victoria": [
+          "Circular Economy Market Report",
+          "Recycled First Policy",
+          "Recycling Victoria: A New Economy (2020)"
+        ],
+        "New South Wales": [
+          "Future Transport Strategy 2056",
+          "NSW Circular Economy Policy Statement",
+          "NSW Waste and Sustainable Materials Strategy 2041"
+        ],
+        "Queensland": []
+      },
+      "evidence": [
+        {
+          "text": "[PAGE 10]\nThe built environment has been a key focus area for the Centre, having funded a waste reducing\nprefabrication project, and a project on circular modular housing system. In addition to this the Centre has\nproduced a range of support material which can be found here https://www.cebic.vic.gov.au/learn/explore-by-\nindustry/circular-design-in-the-built-environment.\nThe Circular Economy Market Report:\nThis annual report produced by Recycling Victoria provides Victorian specific construction ",
+          "source": "48.What-Works-3-For-circular-design-in-the-built-environment.pdf",
+          "page": "10"
+        },
+        {
+          "text": "services, replacing physical with virtual locations, delivering services remotely);\nand exchange (selecting resources and technology wisely, replacing with renewable\nenergy and materials sources, using alternative materials inputs, replacing\ntraditional solutions with advanced technology, replacing product-centric delivery\nmodels with new service-centric ones)\nJoensuu et al. Commitment, capability and interoperability; evaluation of the CE benefits;\n(2020)61 development of a database that compri",
+          "source": "87.The Circular Economy in the Australian Built Environment The State of Play and a Research Agenda.pdf",
+          "page": "None"
+        },
+        {
+          "text": "• Number of derelict buildings • Public sustainable procurement\nand empty homes • Patents for circular goods\n• Biodiversity loss • Retrofitted homes\n31 | Australia’s Circular Economy Framework Return to table of contents",
+          "source": "55.australias-circular-economy-framework-2024.pdf",
+          "page": "None"
+        },
+        {
+          "text": "would bring Australian standards closer to\ndeep reduction, reuse, recycling and recovery of\nstandard practice in the USA and Europe. There\nresources.\nis no current regulation regarding circular\neconomy, extended producer responsibility, or\nIn the workshop we will present some of our\nembodied energy/carbon relation to the sector\nanalysis on these supply chains.\nin Australia. | \n | CUerbnatrne R foesr earch",
+          "source": "38.AHURI-Final-Report-402-Building-materials-in-a-circular-economy.pdf",
+          "page": "None"
+        },
+        {
+          "text": "would bring Australian standards closer to\ndeep reduction, reuse, recycling and recovery of\nstandard practice in the USA and Europe. There\nresources.\nis no current regulation regarding circular\neconomy, extended producer responsibility, or\nIn the workshop we will present some of our\nembodied energy/carbon relation to the sector\nanalysis on these supply chains.\nin Australia. | \n | CUerbnatrne R foesr earch",
+          "source": "61.Building materials in a circular economy.pdf",
+          "page": "None"
+        }
+      ]
+    },
+    "answer": "# Comparison of Circular Economy Instruments: Victoria, New South Wales, and Queensland\n\n## Overview\n\nBased on the structured knowledge graph data, there are **significant differences** in the documented circular economy instruments across these three jurisdictions. Victoria and New South Wales each have three identified instruments, while **Queensland has zero documented circular economy instruments** in the provided data.\n\n## Victoria's Circular Economy Instruments\n\nVictoria has established three distinct policy instruments:\n\n1. **Recycling Victoria: A New Economy (2020)** - A comprehensive circular economy strategy\n2. **Recycled First Policy** - Focused on procurement and material use requirements\n3. **Circular Economy Market Report** - An annual reporting mechanism that \"provides Victorian specific construction\" data [Source: 48.What-Works-3-For-circular-design-in-the-built-environment.pdf, p.10]\n\nVictoria also demonstrates institutional support through the Centre for the Circular Economy in the Built Environment and Infrastructure (CEBIC), which has \"funded a waste reducing prefabrication project, and a project on circular modular housing system\" and produced support materials available at their website [Source: 48.What-Works-3-For-circular-design-in-the-built-environment.pdf, p.10].\n\n## New South Wales' Circular Economy Instruments\n\nNew South Wales has developed three policy instruments:\n\n1. **NSW Circular Economy Policy Statement** - A high-level policy framework\n2. **NSW Waste and Sustainable Materials Strategy 2041** - A long-term strategic document with a 20-year horizon\n3. **Future Transport Strategy 2056** - A sector-specific strategy extending to 2056\n\nThe NSW instruments appear to take a longer-term strategic approach, with planning horizons extending to 2041 and 2056, suggesting a commitment to multi-decade transformation.\n\n## Queensland's Position\n\n**No circular economy instruments were identified** in the knowledge graph data for Queensland. This represents a critical gap in the comparative analysis and suggests either:\n- Queensland has not yet developed dedicated circular economy policy instruments for the built environment sector, or\n- Such instruments exist but were not captured in the analyzed documentation\n\n## Key Differences\n\n### 1. **Policy Maturity and Comprehensiveness**\n- **Victoria** demonstrates the most developed ecosystem with both strategic policies and operational tools (the annual Market Report)\n- **New South Wales** focuses on long-term strategic planning with extended time horizons\n- **Queensland** shows no documented policy framework in the available data\n\n### 2. **Reporting and Transparency**\n- **Victoria** is the only jurisdiction with an identified annual reporting mechanism (Circular Economy Market Report)\n- Neither NSW nor Queensland have documented equivalent reporting instruments\n\n### 3. **Sectoral Integration**\n- **New South Wales** explicitly integrates circular economy into transport planning (Future Transport Strategy 2056)\n- **Victoria** focuses on waste and recycling systems with built environment applications\n- No sectoral integration is documented for Queensland\n\n### 4. **Institutional Support**\n- **Victoria** has established a dedicated Centre (CEBIC) with project funding capabilities\n- No equivalent institutional structures are documented for NSW or Queensland\n\n## Regulatory Context\n\nIt is important to note that across all Australian jurisdictions, \"there is no current regulation regarding circular economy, extended producer responsibility, or embodied energy/carbon relation to the sector in Australia\" [Source: 38.AHURI-Final-Report-402-Building-materials-in-a-circular-economy.pdf]. This indicates that while Victoria and NSW have developed policy instruments, these remain voluntary or strategic frameworks rather than binding regulations.\n\n## Data Limitations\n\nThis analysis is constrained by the available knowledge graph data. The absence of Queensland instruments may reflect:\n1. Actual policy gaps in that jurisdiction\n2. Limitations in the source documents analyzed\n3. Different naming conventions or policy structures not captured in the data extraction\n\nA complete comparison would require verification of Queensland's policy landscape through additional primary sources.\n\n## Conclusion\n\nVictoria demonstrates the most comprehensive circular economy instrument framework with strategic policies, operational tools, and institutional support. New South Wales has established long-term strategic instruments with extended planning horizons. Queensland shows no documented instruments in the available data, representing either a significant policy gap or a data collection limitation that requires further investigation."
+  },
+  "demo_3_gap_analysis": {
+    "question": "Which practices face barriers without enabling instruments?",
+    "structured_result": {
+      "query_type": "gap_analysis",
+      "practice_filter": null,
+      "total_practices_analysed": 427,
+      "gaps": [
+        {
+          "practice": "Selective Deconstruction",
+          "barriers": [
+            "Time Constraints",
+            "Time Constraints",
+            "Cost Barriers",
+            "Skill Gaps",
+            "Economic Balance",
+            "Insurability Issues"
+          ],
+          "barrier_count": 6,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Demolition",
+          "barriers": [
+            "Downcycling",
+            "Downcycling",
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 3,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Steel Extraction",
+          "barriers": [
+            "Locked-in stresses",
+            "Strip-out coinciding with detailed design",
+            "Service penetrations and fittings"
+          ],
+          "barrier_count": 3,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Cultural shift",
+          "barriers": [
+            "Worker Displacement",
+            "Stigma Towards Reused Products"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "End-of-Pipe Solution",
+          "barriers": [
+            "Landfill Disposal",
+            "Landfill Disposal"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "On-site Storage",
+          "barriers": [
+            "Material Degradation Over Time",
+            "Site and Space Constraints"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Brick Recycling",
+          "barriers": [
+            "Transport Costs and Emissions"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Building Component Reuse",
+          "barriers": [
+            "Downcycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Building Services Equipment Reuse",
+          "barriers": [
+            "Operational Efficiency"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Circular Strategies",
+          "barriers": [
+            "Financial Viability"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Construction Process",
+          "barriers": [
+            "Lack of Complete Integration and Monitoring"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Cost-benefit Analysis",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Deconstruction Logistics",
+          "barriers": [
+            "Cost Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Deconstruction Trials",
+          "barriers": [
+            "Challenges"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Dematerialisation",
+          "barriers": [
+            "Resource Use"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Direct Reuse",
+          "barriers": [
+            "Fire Certification Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "End-of-Pipe Waste Minimisation",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Higher Order CE Strategies",
+          "barriers": [
+            "Public Misconception of CE as Recycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "institutional arrangements",
+          "barriers": [
+            "Downcycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Material and Component Production",
+          "barriers": [
+            "Lack of Manufacturing Facilities"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Material testing and preparation",
+          "barriers": [
+            "Programme constraints"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Mechanical Demolition",
+          "barriers": [
+            "Time Constraints"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "National Data Platform",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Off-Site Recycling",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Prefabricated housing",
+          "barriers": [
+            "Regulatory Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Recycling-Focused Waste Strategy",
+          "barriers": [
+            "Material Degradation Over Time"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Risk Assessment",
+          "barriers": [
+            "Operational Efficiency"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Robotics for Hazardous Material Removal",
+          "barriers": [
+            "Safety Risks for Contractors"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Structural Component Reuse",
+          "barriers": [
+            "Loss of Original Documentation"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Traditional Demolition",
+          "barriers": [
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Waste Prevention",
+          "barriers": [
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Circular Economy Practices",
+          "barriers": [
+            "Lack of Circular Economy Regulation",
+            "Lack of Definitions and Clarity",
+            "Lack of Definitions and Clarity",
+            "Lack of Definitions and Clarity",
+            "Lack of Legislative Power",
+            "Interchangeable Use of Paradigms",
+            "Interchangeable Use of Paradigms",
+            "Material Quality Issues",
+            "Construction Program Delays",
+            "Policy Alignment Gap",
+            "Lack of Specificity in Waste Definitions",
+            "Lack of Knowledge and Awareness",
+            "Lack of Understanding of Circular Economy",
+            "Financial Viability",
+            "On-Site Complexity",
+            "Lack of Monitoring Structures"
+          ],
+          "barrier_count": 16,
+          "instrument_count": 3,
+          "enabler_count": 2,
+          "has_instruments": true,
+          "has_enablers": true,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "End-of-Life Material Recovery",
+          "barriers": [
+            "Absence of Regulation",
+            "Absence of Regulation",
+            "Underpricing of Landfill",
+            "Underpricing of Landfill",
+            "Absence of Markets",
+            "Absence of Markets"
+          ],
+          "barrier_count": 6,
+          "instrument_count": 3,
+          "enabler_count": 0,
+          "has_instruments": true,
+          "has_enablers": false,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Deconstruction Services",
+          "barriers": [
+            "Weak Information Sharing",
+            "Regulatory Barriers",
+            "Cost Barriers",
+            "Lack of Recognition in AEC Supply Chain",
+            "Additional Effort Requirements"
+          ],
+          "barrier_count": 5,
+          "instrument_count": 0,
+          "enabler_count": 1,
+          "has_instruments": false,
+          "has_enablers": true,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Recycling Technologies",
+          "barriers": [
+            "Reliance on imported virgin PET",
+            "Reliance on imported virgin PET",
+            "High Recycling Costs"
+          ],
+          "barrier_count": 3,
+          "instrument_count": 2,
+          "enabler_count": 0,
+          "has_instruments": true,
+          "has_enablers": false,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Building Disassembly",
+          "barriers": [
+            "Cost Barriers",
+            "Cost Barriers",
+            "Operational Efficiency"
+          ],
+          "barrier_count": 3,
+          "instrument_count": 2,
+          "enabler_count": 0,
+          "has_instruments": true,
+          "has_enablers": false,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Design Stage",
+          "barriers": [
+            "Design Errors",
+            "Wrong Specification of Materials",
+            "Challenges"
+          ],
+          "barrier_count": 3,
+          "instrument_count": 1,
+          "enabler_count": 1,
+          "has_instruments": true,
+          "has_enablers": true,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Construction and Demolition Waste Recycling",
+          "barriers": [
+            "Geographic and Spatial Barriers",
+            "Pricing Challenges"
+          ],
+          "barrier_count": 2,
+          "instrument_count": 0,
+          "enabler_count": 1,
+          "has_instruments": false,
+          "has_enablers": true,
+          "gap_severity": "medium"
+        },
+        {
+          "practice": "Sustainable Deconstruction",
+          "barriers": [
+            "Skill Gaps",
+            "Internal Friction"
+          ],
+          "barrier_count": 2,
+          "instrument_count": 0,
+          "enabler_count": 1,
+          "has_instruments": false,
+          "has_enablers": true,
+          "gap_severity": "medium"
+        }
+      ],
+      "gap_count": 39,
+      "well_governed_count": 13,
+      "high_severity_gaps": [
+        {
+          "practice": "Selective Deconstruction",
+          "barriers": [
+            "Time Constraints",
+            "Time Constraints",
+            "Cost Barriers",
+            "Skill Gaps",
+            "Economic Balance",
+            "Insurability Issues"
+          ],
+          "barrier_count": 6,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Demolition",
+          "barriers": [
+            "Downcycling",
+            "Downcycling",
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 3,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Steel Extraction",
+          "barriers": [
+            "Locked-in stresses",
+            "Strip-out coinciding with detailed design",
+            "Service penetrations and fittings"
+          ],
+          "barrier_count": 3,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Cultural shift",
+          "barriers": [
+            "Worker Displacement",
+            "Stigma Towards Reused Products"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "End-of-Pipe Solution",
+          "barriers": [
+            "Landfill Disposal",
+            "Landfill Disposal"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "On-site Storage",
+          "barriers": [
+            "Material Degradation Over Time",
+            "Site and Space Constraints"
+          ],
+          "barrier_count": 2,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Brick Recycling",
+          "barriers": [
+            "Transport Costs and Emissions"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Building Component Reuse",
+          "barriers": [
+            "Downcycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Building Services Equipment Reuse",
+          "barriers": [
+            "Operational Efficiency"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Circular Strategies",
+          "barriers": [
+            "Financial Viability"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Construction Process",
+          "barriers": [
+            "Lack of Complete Integration and Monitoring"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Cost-benefit Analysis",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Deconstruction Logistics",
+          "barriers": [
+            "Cost Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Deconstruction Trials",
+          "barriers": [
+            "Challenges"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Dematerialisation",
+          "barriers": [
+            "Resource Use"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Direct Reuse",
+          "barriers": [
+            "Fire Certification Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "End-of-Pipe Waste Minimisation",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Higher Order CE Strategies",
+          "barriers": [
+            "Public Misconception of CE as Recycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "institutional arrangements",
+          "barriers": [
+            "Downcycling"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Material and Component Production",
+          "barriers": [
+            "Lack of Manufacturing Facilities"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Material testing and preparation",
+          "barriers": [
+            "Programme constraints"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Mechanical Demolition",
+          "barriers": [
+            "Time Constraints"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "National Data Platform",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Off-Site Recycling",
+          "barriers": [
+            "Landfill Disposal"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Prefabricated housing",
+          "barriers": [
+            "Regulatory Barriers"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Recycling-Focused Waste Strategy",
+          "barriers": [
+            "Material Degradation Over Time"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Risk Assessment",
+          "barriers": [
+            "Operational Efficiency"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Robotics for Hazardous Material Removal",
+          "barriers": [
+            "Safety Risks for Contractors"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Structural Component Reuse",
+          "barriers": [
+            "Loss of Original Documentation"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Traditional Demolition",
+          "barriers": [
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        },
+        {
+          "practice": "Waste Prevention",
+          "barriers": [
+            "Time and Cost Pressures"
+          ],
+          "barrier_count": 1,
+          "has_instruments": false,
+          "has_enablers": false,
+          "gap_severity": "high"
+        }
+      ],
+      "top_well_governed": [
+        {
+          "practice": "Design for Disassembly (DfD)",
+          "barrier_count": 2,
+          "instrument_count": 16,
+          "enabler_count": 3
+        },
+        {
+          "practice": "Circular Design",
+          "barrier_count": 3,
+          "instrument_count": 8,
+          "enabler_count": 0
+        },
+        {
+          "practice": "Remanufacturing",
+          "barrier_count": 1,
+          "instrument_count": 5,
+          "enabler_count": 1
+        },
+        {
+          "practice": "Waste Recovery",
+          "barrier_count": 1,
+          "instrument_count": 5,
+          "enabler_count": 3
+        },
+        {
+          "practice": "Sustainable Practices",
+          "barrier_count": 1,
+          "instrument_count": 3,
+          "enabler_count": 0
+        },
+        {
+          "practice": "Design Out Waste and Pollution",
+          "barrier_count": 2,
+          "instrument_count": 2,
+          "enabler_count": 0
+        },
+        {
+          "practice": "Material Tracking",
+          "barrier_count": 2,
+          "instrument_count": 2,
+          "enabler_count": 0
+        },
+        {
+          "practice": "Construction and Demolition Waste Management (CDWM)",
+          "barrier_count": 2,
+          "instrument_count": 2,
+          "enabler_count": 3
+        },
+        {
+          "practice": "Modular Construction",
+          "barrier_count": 1,
+          "instrument_count": 2,
+          "enabler_count": 4
+        },
+        {
+          "practice": "Material Reuse",
+          "barrier_count": 1,
+          "instrument_count": 1,
+          "enabler_count": 0
+        }
+      ]
+    },
+    "answer": "# Critical Governance Gaps in Australian Circular Construction: Practices Facing Barriers Without Policy Support\n\nBased on the structured knowledge graph analysis of 427 circular construction practices in Australia, several critical practices face significant barriers yet lack enabling instruments or policy support. These represent the most severe governance gaps requiring urgent attention.\n\n## 1. Selective Deconstruction: The Most Critical Gap\n\n**Selective Deconstruction** emerges as the practice with the highest barrier burden (6 distinct barriers) and complete absence of policy support:\n\n**Barriers identified:**\n- Time Constraints (cited twice, indicating severity)\n- Cost Barriers\n- Skill Gaps\n- Economic Balance challenges\n- Insurability Issues\n\nThis practice is fundamental to circular construction, as it enables material recovery at end-of-life. The absence of any enabling instruments despite multiple, well-documented barriers represents the most critical governance gap. Without policy intervention addressing time pressures, cost differentials with conventional demolition, workforce training, and insurance frameworks, selective deconstruction remains economically unviable for most projects.\n\n## 2. Demolition Practices: Systemic Downcycling\n\n**Conventional Demolition** faces three barriers without policy support:\n- Downcycling (cited twice)\n- Time and Cost Pressures\n\nThe repeated citation of \"downcycling\" indicates that current demolition practices systematically degrade material value rather than preserving it. The governance gap here is the absence of instruments that would incentivize or require higher-order material recovery strategies over conventional demolition.\n\n## 3. Material-Specific Recovery Gaps\n\n### Steel Extraction\nFaces three technical barriers without enabling policy:\n- Locked-in stresses\n- Strip-out coinciding with detailed design\n- Service penetrations and fittings\n\nThese technical challenges require coordinated solutions involving design standards, timing protocols, and technical guidance—none of which currently exist in policy form.\n\n### Brick Recycling\nFaces **Transport Costs and Emissions** barriers without policy support. This represents a market failure where environmental externalities are not addressed through policy mechanisms.\n\n## 4. Cultural and Systemic Transformation Gaps\n\n### Cultural Shift\nTwo critical barriers without policy enablers:\n- Worker Displacement concerns\n- Stigma Towards Reused Products\n\nThis gap is particularly significant because cultural transformation requires sustained policy intervention, including workforce transition programs, public procurement preferences, and awareness campaigns—none of which are currently mandated.\n\n### Higher Order CE Strategies\nFaces **Public Misconception of CE as Recycling** without policy support. This indicates a fundamental communication and education gap that policy instruments could address through public awareness requirements or educational mandates.\n\n## 5. Storage and Logistics Infrastructure Gaps\n\n### On-site Storage\nTwo barriers without policy support:\n- Material Degradation Over Time\n- Site and Space Constraints\n\nThe absence of policy addressing temporary storage requirements, space allocation mandates, or material preservation standards represents a significant infrastructure gap.\n\n### Deconstruction Logistics\nFaces **Cost Barriers** without enabling instruments, indicating that the logistical complexity of deconstruction lacks policy mechanisms to make it economically competitive.\n\n## 6. End-of-Life Management Gaps\n\nMultiple practices related to end-of-life face **Landfill Disposal** barriers without policy alternatives:\n- End-of-Pipe Solution\n- Cost-benefit Analysis\n- End-of-Pipe Waste Minimisation\n- National Data Platform\n- Off-Site Recycling\n\nThe repeated appearance of landfill disposal as an unaddressed barrier across multiple practices indicates a systemic governance failure: the absence of landfill diversion mandates, disposal levies, or waste hierarchy enforcement mechanisms.\n\n## 7. Technical Standards and Certification Gaps\n\n### Direct Reuse\nFaces **Fire Certification Barriers** without policy support, indicating that building codes and certification processes have not been updated to accommodate reused materials.\n\n### Material testing and preparation\nFaces **Programme constraints** without enabling instruments, suggesting that testing protocols and timelines are not aligned with circular construction requirements.\n\n## 8. Manufacturing and Supply Chain Gaps\n\n### Material and Component Production\nFaces **Lack of Manufacturing Facilities** without policy support. This represents a critical infrastructure gap where market development requires policy intervention through investment incentives, procurement mandates, or facility development programs.\n\n### Building Services Equipment Reuse\nFaces **Operational Efficiency** concerns without policy enablers, indicating that performance standards have not been adapted to accommodate reused equipment.\n\n## 9. Integration and Monitoring Gaps\n\n### Construction Process\nFaces **Lack of Complete Integration and Monitoring** without policy support. This indicates the absence of mandatory reporting, tracking systems, or integration requirements that would enable circular construction practices to be systematically implemented and verified.\n\n## Most Critical Governance Gaps: Priority Ranking\n\nBased on barrier severity and systemic impact:\n\n**Tier 1 - Immediate Action Required:**\n1. **Selective Deconstruction** (6 barriers, foundational practice)\n2. **Demolition practices** (3 barriers, systemic downcycling)\n3. **Cultural shift** (2 barriers, transformation enabler)\n\n**Tier 2 - High Priority:**\n4. **End-of-life management** (landfill disposal barriers across 5+ practices)\n5. **Steel Extraction** (3 technical barriers)\n6. **On-site Storage** (2 infrastructure barriers)\n\n**Tier 3 - Structural Enablers:**\n7. **Manufacturing facilities** (supply chain gap)\n8. **Fire certification and technical standards** (regulatory modernization)\n9. **Integration and monitoring systems** (implementation infrastructure)\n\n## Conclusion\n\nThe analysis reveals that **selective deconstruction, demolition practices, and cultural transformation** represent the most critical governance gaps, as they are foundational practices with multiple barriers and zero policy support. The systemic nature of landfill disposal barriers across multiple practices indicates a fundamental failure to implement waste hierarchy principles through binding policy instruments.\n\n**Note on data limitations:** This analysis is based on the structured knowledge graph data provided. The absence of instruments in the dataset may reflect either genuine policy gaps or limitations in data collection scope. Verification against current policy databases would strengthen these findings."
+  },
+  "demo_4_free_query": {
+    "question": "How do material passports support building deconstruction?",
+    "answer": "# Material Passports and Building Deconstruction in Australia: Policy Analysis\n\n## How Material Passports Support Building Deconstruction Practices\n\nMaterial passports serve as critical enablers of building deconstruction through several interconnected mechanisms:\n\n### 1. **Enabling Selective Demolition and Material Recovery**\n\nMaterial passports directly enable selective demolition practices by providing detailed documentation of building components and materials [Source: Knowledge Graph - Material passports ENABLES Selective Demolition]. This documentation supports material recovery outcomes by creating transparency about what materials exist within buildings and their specifications [Source: Knowledge Graph - Material passports ENABLES Material Recovery].\n\n### 2. **Facilitating Material Tracking and Buildings as Material Banks**\n\nThe passports enable material tracking practices throughout the building lifecycle [Source: Knowledge Graph - Material passports ENABLES Material Tracking]. This supports the \"Buildings as Material Banks (BAMB)\" concept, where buildings are viewed as repositories of valuable materials that can be recovered at end-of-life [Source: Knowledge Graph - Material passports ENABLES Buildings as Material Banks].\n\n### 3. **Supporting Adaptive Reuse and Component Salvage**\n\nMaterial passports enable adaptive reuse practices by documenting material specifications and conditions [Source: Knowledge Graph - Material passports ENABLES Adaptive Reuse]. They apply specifically to salvaged components, providing the information necessary to assess their suitability for reuse [Source: Knowledge Graph - Material passports APPLIES_TO Salvaged Components].\n\n### 4. **Addressing Critical Data Gaps**\n\nThe research identifies \"significant gaps in data necessary for understanding the flow of materials used in the construction of housing, materials already in the housing system, construction and disassembly waste, and reuse\" [Source: 38.AHURI-Final-Report-402-Building-materials-in-a-circular-economy.pdf, p.80]. Material passports directly address these data gaps by creating systematic documentation of building materials.\n\n## Policy Instruments Encouraging Material Passport Adoption in Australia\n\n### 1. **National-Level Policy Framework**\n\n**National Waste Policy**: This instrument applies in Australia and provides overarching policy direction for waste management and circular economy initiatives [Source: Knowledge Graph - National Waste Policy APPLIES_IN Australia].\n\n**National Circular Design Standards**: These standards apply in Australia and provide a framework for circular design practices, which would encompass material passport requirements [Source: Knowledge Graph - National Circular Design Standards APPLIES_IN Australia].\n\n### 2. **Institutional Mechanisms**\n\n**Circular Economy Ministerial Advisory Group (CEMAG)**: This authority operates in Australia and references material passports in its policy recommendations [Source: Knowledge Graph - CEMAG APPLIES_IN Australia; Material passports REFERENCES CEMAG]. CEMAG provides high-level policy guidance on circular economy implementation.\n\n### 3. **Government Project Requirements**\n\nMaterial passports are being applied to government projects as a policy mechanism [Source: Knowledge Graph - Material passports APPLIES_TO Government Projects]. The evidence suggests that \"government projects should consider\" circular economy practices, with specific targets proposed: \"By 2030, aim for 20% of new building projects (by value) to utilise\" advanced construction techniques that support circularity [Source: 27.Engineering-for-Australias-Circular-Economy-White-Paper-Download.pdf].\n\n### 4. **Building Code Integration (Proposed)**\n\nThere is a policy recommendation to \"incorporate these into the National Construction Code (NCC) or state building codes as best-practice requirements for large projects\" by 2027 [Source: 27.Engineering-for-Australias-Circular-Economy-White-Paper-Download.pdf]. This would mandate material documentation for government-funded buildings.\n\n### 5. **State-Level Instruments**\n\n**Queensland Waste Management and Resource Recovery Strategy**: This state-level instrument applies in Australia and provides jurisdiction-specific policy direction [Source: Knowledge Graph - Queensland Waste Management and Resource Recovery Strategy APPLIES_IN Australia].\n\n### 6. **Economic Incentives**\n\n**Waste Levy Costs**: These requirements apply in Australia and create economic incentives for material recovery and reuse by making disposal more expensive [Source: Knowledge Graph - Waste levy costs APPLIES_IN Australia].\n\nThe policy framework also proposes \"incentives such as R&D tax credits or grants for modular building construction techniques\" [Source: 27.Engineering-for-Australias-Circular-Economy-White-Paper-Download.pdf], which would support the systems that make material passports valuable.\n\n## Policy Gaps and Limitations\n\n### Data Collection Infrastructure\n\nThe research explicitly identifies that \"significant data gaps\" exist regarding \"materials already in the housing system, construction and disassembly waste, and reuse\" [Source: 38.AHURI-Final-Report-402-Building-materials-in-a-circular-economy.pdf, p.80]. While the Australian Housing Data Portal established by CSIRO represents progress, comprehensive material passport systems require further development.\n\n### Mandatory vs. Voluntary Adoption\n\nThe evidence suggests that current material passport adoption in Australia is primarily voluntary or limited to specific government projects, rather than being mandated across all construction. The proposed NCC integration by 2027 would represent a shift toward mandatory requirements, but this remains a recommendation rather than implemented policy.\n\n### Application Scope\n\nMaterial passports currently apply to the residential housing system [Source: Knowledge Graph - Material passports APPLIES_TO Residential Housing System], but comprehensive coverage across all building types requires further policy development.\n\n## Conclusion\n\nMaterial passports support building deconstruction by enabling selective demolition, material tracking, and recovery practices while addressing critical data gaps in Australia's construction sector. Policy encouragement comes through national frameworks (National Waste Policy, National Circular Design Standards), institutional guidance (CEMAG), government project requirements, proposed building code integration, and economic incentives (waste levies). However, significant policy development is still needed to mandate comprehensive material passport adoption across the construction sector and establish the data infrastructure necessary for effective implementation."
+  }
+}

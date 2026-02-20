@@ -1,0 +1,872 @@
+[
+  {
+    "node_id": "ent:dbf680c44ccf304f",
+    "name": "Australian Housing and Urban Research Institute Limited",
+    "type": "Authority"
+  },
+  {
+    "node_id": "ent:4ba1927fad9748c2",
+    "name": "Environment and Communications Committee",
+    "type": "Authority"
+  },
+  {
+    "node_id": "ent:bb0e1fe50e9c44e5",
+    "name": "GlobalABC",
+    "type": "Authority"
+  },
+  {
+    "node_id": "ent:97d48ce833382cc6",
+    "name": "Minist\u00e8re de la Transition \u00c9cologique",
+    "type": "Authority"
+  },
+  {
+    "node_id": "ent:318fd3407848513c",
+    "name": "Brick waste disposal",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:c87052ca3c651265",
+    "name": "Business-as-Usual Model",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:4471fc683a7dc63f",
+    "name": "Conventional Design and Construction Methods",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:575482608da16ec5",
+    "name": "Cost uplift",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:190bbeda91b046f7",
+    "name": "Crane time",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:81a4e0786d7c8d93",
+    "name": "Economic and Market-Related Barriers",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:1175a6d7fc3dee38",
+    "name": "Endless Production Requirement",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:978d8a39194261e3",
+    "name": "Extract-Produce-Use-Dump Material Flow",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:1202d41b3893e80e",
+    "name": "Financial Motivations",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:430e853d88a66a25",
+    "name": "Handling & Damage Risks",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:4cf2d6af7260b6e8",
+    "name": "Housing shortage",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:ef6a155e30da8905",
+    "name": "Incomplete Integration of Circular Economy",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:e58d5902627faa19",
+    "name": "Increasing C&D Waste Volumes",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:9338db705f914bc9",
+    "name": "Labour Availability and Cost Constraints",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:2d491eed06fd645e",
+    "name": "Lack of Design for Reuse",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:7a5169ac2e82cb8e",
+    "name": "Lack of Guidance and Standards",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:40ea7c584de0d5d8",
+    "name": "Lack of Standardised Practices for Demolition Waste Recovery",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:50c92952a624af93",
+    "name": "Linear construction sector economy",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:118609fb383ee7fb",
+    "name": "Linear consumption model",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:a31a34d686512bf3",
+    "name": "Linear Economic Framework",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:f4851445d07322cf",
+    "name": "Low-Quality and Low-Cost Construction Materials",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:7d72c992b6f3dc18",
+    "name": "Market Mechanisms",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:d93957f676294039",
+    "name": "Procurement Barriers",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:787a8311fb6eb3fa",
+    "name": "Project-based institutional practices",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:7e3eb17078d2f44d",
+    "name": "Take-make-dispose approach",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:52947aff4f0bdd6c",
+    "name": "Unknowns in Reclaimed Components",
+    "type": "Barrier"
+  },
+  {
+    "node_id": "ent:e12e55969b5e60be",
+    "name": "Fostering behaviour change through education and engagement",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:3336f4c88fd7c15e",
+    "name": "Green loan frameworks",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:4931608732c55a22",
+    "name": "Harmonised levies",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:682fb8a3a7ae3580",
+    "name": "International Markets",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:266ad77f6e070d1c",
+    "name": "Lessons Learned from Other Countries, Research, and Organisations",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:0e62179a3e26d346",
+    "name": "Planetary Boundaries",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:271ed95a13a7a4d6",
+    "name": "R&D Credits for Circular Innovation",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:0e4a297373b57413",
+    "name": "Resource Efficiency",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:de226bee81c56283",
+    "name": "Supply and Demand Understanding",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:8c6a78afecebf6bb",
+    "name": "Tax incentives for circular businesses",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:c658a71418ef47c4",
+    "name": "Tower crane",
+    "type": "Enabler"
+  },
+  {
+    "node_id": "ent:0221bebb09119d7c",
+    "name": "Arup Evaluating re-use potential: Material profiles and vision for project workflow",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:a619817acd4f49f1",
+    "name": "Australia's Circular Economy: Unlocking the Opportunities (Inquiry Report)",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:d68083d93d2776fe",
+    "name": "BREEAM",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:a84aa72383862efe",
+    "name": "BS 6187:2011 Code of Practice for Demolition",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:27efc11f067b708f",
+    "name": "C2C Certification",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:2b1c57d87540cdde",
+    "name": "CEMBUREAU Cement, concrete & the circular economy",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:d358f2a91d5f8aff",
+    "name": "Construction Works Management Framework",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:8a76c53197a10a84",
+    "name": "Digital Twin Victoria",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:af8f819b418a3353",
+    "name": "DIN SPEC 91484 Table 3",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:49d2b666e77fba79",
+    "name": "DRAFT National Waste Management Plan for a Digital Data Capturing Environment",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:6f506254d334e8b5",
+    "name": "EN 1168:2005+A3:2011 Precast Concrete Products \u2013 Hollow Core Slabs",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:71ca44cab9853fa3",
+    "name": "IiA 37076 Specifying construction materials for re-use",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:a22d7d2f3e438e2e",
+    "name": "ISO 59004:2024 Circular Economy \u2014 Vocabulary, Principles and Guidance for Implementation",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:36ffa604e45fb734",
+    "name": "LETI",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:08bd0ae1ce128643",
+    "name": "NABERS",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:70082b29378c9faa",
+    "name": "NS 3682:2022 Hollow Core Slabs for Reuse",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:9fc686e4c68aa6fd",
+    "name": "NSW Spatial Digital Twin",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:c2e213889dd49621",
+    "name": "PROGRESS European recommendations for reuse of steel products in single-storey buildings",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:ee0412b327368b59",
+    "name": "Steel Construction Institute P440 Reuse of Pre-1970 Steelwork",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:01a628d1c7682821",
+    "name": "Work Health and Safety",
+    "type": "Instrument"
+  },
+  {
+    "node_id": "ent:d3e446d0c72f56d7",
+    "name": "Australian Economy",
+    "type": "Jurisdiction"
+  },
+  {
+    "node_id": "ent:83ffd1f980931c86",
+    "name": "Aluminium",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:72e1a10770653773",
+    "name": "Beverage Containers",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:5ae0d3e5fbbe17ef",
+    "name": "Brent Cross Substation",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:0a7eecbb7d1094bd",
+    "name": "Civil Infrastructure",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:f10c2e11a356f715",
+    "name": "Durable Goods",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:d87cf2e2be0a71ff",
+    "name": "Engineered Timber",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:0ef87fa8bb6e12bd",
+    "name": "Engineering Systems",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:8c2c98c6e9c646cb",
+    "name": "Flooring",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:7d9f5dd5f87d721a",
+    "name": "Green Steel",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:8e77178c692f1798",
+    "name": "Hardwood Timber",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:d7149b98cfbc6300",
+    "name": "LocHal",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:04b6d9248d0d8833",
+    "name": "New Brick",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:364dc5ca02badcd6",
+    "name": "Non-Metallic Minerals",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:92faeec77b0ba2d7",
+    "name": "Organic Recycled Content",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:77df088addc559ab",
+    "name": "Park Life Nightingale Village",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:dd23467951eb1e69",
+    "name": "Purified Recycled Water (PRW)",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:9a7ac6db0db025eb",
+    "name": "Reclaimed Bricks",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:7290eb796c66332c",
+    "name": "Reinforced structures",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:c6fd774716dc817e",
+    "name": "Reused Components",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:96a987c0ded59ca2",
+    "name": "Steel Sheet",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:0a8741ebc6731d52",
+    "name": "Steel Structures",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:dbaed818cc5173ee",
+    "name": "Timber Frames",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:19fb2c700fb16e78",
+    "name": "Water-damaged drywall",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:79554bb6b8ad8ede",
+    "name": "Whole Assemblies",
+    "type": "MaterialAsset"
+  },
+  {
+    "node_id": "ent:e554a9a745f20a2b",
+    "name": "Economic Growth",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:c00e495a30a59f07",
+    "name": "Entry-Level Jobs",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:e9fed0c3870ff27a",
+    "name": "Environmental Impacts Reduction",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:6afa74ac25e4447f",
+    "name": "High-Value Jobs",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:bcc637e0fd50f522",
+    "name": "Higher Leasability",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:b4d3bebdeb840b2a",
+    "name": "Higher Value for Future Assets",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:46dc83db621fcfc7",
+    "name": "Landfill Airspace Savings",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:e931d5c1b8901161",
+    "name": "Long-Term Sustainability",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:da31ab5ad65a4c10",
+    "name": "Products that can be Disassembled",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:cb1ca5f4f1592ace",
+    "name": "Regenerative Use of Resources",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:78080346e1b21d2d",
+    "name": "Residual Value of Construction Materials",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:434579614c0475f6",
+    "name": "Social Capital",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:7cfc987c4eaf9b4b",
+    "name": "Social Sustainability",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:75ec5a84ff2b1a75",
+    "name": "Sustainable Culture",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:fe569c2025433a1b",
+    "name": "water contamination",
+    "type": "OutcomeMetric"
+  },
+  {
+    "node_id": "ent:fa1ca120816a0e69",
+    "name": "3D printing of building modules",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:88e11192f25e04ae",
+    "name": "Advanced Assembly",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:abe58de55ce1e870",
+    "name": "Avoidance and Reduce",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:3e4f051cf1da8e84",
+    "name": "BIM Methodology & Governance",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:62a7c6fb0c04370a",
+    "name": "Bolted Connection Systems",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:e1720d6dd39139ac",
+    "name": "Building Management Systems",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:3ea7692569bf1faa",
+    "name": "Buy-Back Schemes",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:4ff1173d7fe36467",
+    "name": "By-product opportunities for construction and demolition residual resources",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:4d432c36616fe4f5",
+    "name": "Cleaning, Sorting, and Testing",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:2042a12fce5e30e3",
+    "name": "Commercial and Industrial Repair and Refurbishment",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:46a41e458e0abd29",
+    "name": "Community repair",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:db56770eb655b84b",
+    "name": "Construction Stage",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:9505dc0f99358773",
+    "name": "Conventional Recycling Methods",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:b7cbe575f1fea669",
+    "name": "Core Design",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:50e4194d69949931",
+    "name": "Corporate Donation of Unsold Goods",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:f052d19662c61a11",
+    "name": "Cradle-to-Grave Material Lifecycle",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:6a7de92d11533949",
+    "name": "Cross-jurisdictional construction waste material trading",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:0a33cb396546cd3a",
+    "name": "Design of concrete buildings for disassembly",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:9335db3513f83258",
+    "name": "Eco-friendly products and technologies",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:6e2f9fb512bb154e",
+    "name": "Ecodesign",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:9fbef6781900e45e",
+    "name": "Economic multiplier framework",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:5aaabceb01020331",
+    "name": "End-of-Life Recovery Strategies",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:6c3e25efd55504c5",
+    "name": "Equipment/materials sharing platform",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:d7980c960be4d6df",
+    "name": "Factory-based Offsite Manufacturing",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:e8d2b981d0dd997c",
+    "name": "Food rescue operations",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:96d7f388264152f0",
+    "name": "Green buildings",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:99afd98338740fa7",
+    "name": "HVO",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:11425d29cfc568b2",
+    "name": "Information Management",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:0aa2d559fe4ef2b9",
+    "name": "Integrated Supply Chain",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:b16d5951d521d9dd",
+    "name": "Manufacturing Eco-system",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:1dc8303c4e658a9a",
+    "name": "Nature-Based Solutions (NBS)",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:4f9199d4ecd99223",
+    "name": "Optimised Cutting",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:f597ff9185ded8fc",
+    "name": "Recycled Water",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:227c1613e9869a3f",
+    "name": "Recycling wood chip",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:6bdf82d7b9f38f11",
+    "name": "Refillable/returnable packaging",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:ce393f535e53d322",
+    "name": "Renovation",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:03b04bf7fc0b3596",
+    "name": "Repurposing of aqua-cultural by-products",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:73d9d18c6756a6cc",
+    "name": "Resource-Sharing Infrastructure",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:11edfeb2b4deaf91",
+    "name": "Reusable alternatives to single-use items",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:a37c39576e7f709d",
+    "name": "Reuse-Optimised Deconstruction",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:70fc8f45b4d9146c",
+    "name": "Servitization",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:4ca6eaa1ca76cbc2",
+    "name": "Shared Economy",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:159876aa8445c084",
+    "name": "Soft Landing Mattress Recycling",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:95aa5a06e42a7607",
+    "name": "Stahel's performance economy",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:7085e180b7fe371f",
+    "name": "Stockpiling of Disassembled Construction Materials",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:2cd377a61ce803b4",
+    "name": "Structural Design for Circular Economy",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:db99160e6a6e9c4e",
+    "name": "Sustainable management of all resources",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:5e17d7366a7330cc",
+    "name": "Take-back Model",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:e2f232ea17e02eb9",
+    "name": "Transport and Handling",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:fc3520932b52eb35",
+    "name": "Universal Design",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:c29c50b1d4ec5ad3",
+    "name": "Use of a scale to analyse the level of implementation of CE practices",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:6596c39d3171ac52",
+    "name": "Waste Value Chain",
+    "type": "Practice"
+  },
+  {
+    "node_id": "ent:bebdd22381acd2a9",
+    "name": "Avoidance, reduction and reuse",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:f758e68a4d96891f",
+    "name": "Circular Development Requirements",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:36a88d0beb0af750",
+    "name": "Modularity",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:8f70b1cc2326b06e",
+    "name": "On-Site Resource Management Plan",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:2dd59c448b74395f",
+    "name": "Raw Material Procurement",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:979ddccef34fb52b",
+    "name": "Resource-Constrained Economy",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:1bd9b293ea11f8a2",
+    "name": "Structural Integrity",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:f484adb60c611cc6",
+    "name": "Urban development projects",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:ed7a3a3c1fd07114",
+    "name": "Waste Handling Licences",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:d8acb2ae4d095615",
+    "name": "Weather-Resistance",
+    "type": "Requirement"
+  },
+  {
+    "node_id": "ent:ac9430f8b2a6d94f",
+    "name": "Distributors",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:7b6be410c97b7e3f",
+    "name": "Dutch Logistics Industries",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:36375e6a46127e92",
+    "name": "Insurance Industry",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:e3aa199534717d29",
+    "name": "Material Banks",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:48ed694faed1f31a",
+    "name": "Ogunmakinde et al. (2023)",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:5eece02452a462eb",
+    "name": "Product-as-a-Service Providers",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:f720cd3aa8b8abfb",
+    "name": "Recycling Industry",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:04408092d2eb20bf",
+    "name": "Repair and Maintenance Business",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:efdfba2cbdc5a316",
+    "name": "Salvage Operators",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:1b456f193bcbd9f2",
+    "name": "Site Staff",
+    "type": "Stakeholder"
+  },
+  {
+    "node_id": "ent:8fb01e6141bcafd8",
+    "name": "Utilities",
+    "type": "Stakeholder"
+  }
+]

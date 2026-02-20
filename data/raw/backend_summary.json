@@ -1,0 +1,31 @@
+{
+  "graph_stats": {
+    "nodes": 1641,
+    "edges": 3223,
+    "components": 218,
+    "largest_component": 1340,
+    "isolates": 174,
+    "types": {
+      "Authority": 98,
+      "Instrument": 245,
+      "Barrier": 120,
+      "Enabler": 74,
+      "Practice": 427,
+      "OutcomeMetric": 115,
+      "Jurisdiction": 41,
+      "MaterialAsset": 245,
+      "Requirement": 136,
+      "Stakeholder": 140
+    }
+  },
+  "vector_store_count": 364,
+  "query_types": [
+    "trace_governance_pathway",
+    "compare_jurisdictions",
+    "identify_gaps",
+    "explain_entity",
+    "free_query"
+  ],
+  "country": "AU",
+  "demo_count": 4
+}

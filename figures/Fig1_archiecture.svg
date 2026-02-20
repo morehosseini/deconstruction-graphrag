@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <!-- Arrowhead Marker -->
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#333" />
+    </marker>
+    <!-- Dashed Arrow Marker -->
+    <marker id="arrow-dashed" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#777" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1600" height="900" fill="#ffffff" />
+
+  <!-- FIGURE TITLE AND CAPTION -->
+  <text x="50" y="50" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#111">Figure 1. End-to-end architecture for evidence-grounded deconstruction governance intelligence</text>
+  <text x="50" y="80" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#555">AU corpus analysed in this paper; UK+CA shown as future extension.</text>
+
+  <!-- ======================== LEFT COLUMN: INPUTS ======================== -->
+  <g transform="translate(50, 150)">
+    <!-- Group Title -->
+    <text x="0" y="-15" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#555" text-transform="uppercase">Data Sources</text>
+    
+    <!-- Active Corpus Box -->
+    <rect x="0" y="0" width="220" height="120" rx="8" fill="#f4f6f8" stroke="#333" stroke-width="2"/>
+    <text x="20" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#111">Current Corpus</text>
+    <text x="20" y="55" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#2b5cab">Australia (AU)</text>
+    <text x="20" y="85" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">n = 95 PDFs</text>
+    <text x="20" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#555">(Government + Industry)</text>
+
+    <!-- Future Corpus Box -->
+    <rect x="0" y="150" width="220" height="120" rx="8" fill="#ffffff" stroke="#777" stroke-width="2" stroke-dasharray="8,6"/>
+    <text x="20" y="180" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#555">Future Extension</text>
+    <text x="20" y="205" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#777">UK + CA Corpora</text>
+    <text x="20" y="235" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#777" font-style="italic">(Not analysed)</text>
+  </g>
+
+  <!-- ======================== TOP ROW: PIPELINE STAGES 1-5 ======================== -->
+  <g transform="translate(330, 150)">
+    <!-- Connecting Line Inputs to Stage 1 -->
+    <line x1="-60" y1="60" x2="0" y2="60" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    
+    <!-- Future Extension Arrow: Directly to Stage 1 Input -->
+    <path d="M -60 210 Q -40 210 -40 180 L -40 90 Q -40 70 -10 70" fill="none" stroke="#777" stroke-width="2" stroke-dasharray="5,5" marker-end="url(#arrow-dashed)"/>
+
+    <!-- STAGE 1 -->
+    <g transform="translate(0,0)">
+      <rect width="200" height="140" rx="8" fill="#e9f2ff" stroke="#2b5cab" stroke-width="2"/>
+      <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#2b5cab" text-transform="uppercase">Stage 1</text>
+      <text x="15" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">Corpus Assembly</text>
+      <text x="15" y="70" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">&amp; Source ID</text>
+      <line x1="15" y1="85" x2="185" y2="85" stroke="#2b5cab" stroke-width="1" opacity="0.3"/>
+      <text x="15" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Document manifest</text>
+      <text x="15" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">+ Metadata</text>
+    </g>
+
+    <!-- Arrow 1-2 -->
+    <line x1="200" y1="70" x2="240" y2="70" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- STAGE 2 -->
+    <g transform="translate(240,0)">
+      <rect width="200" height="140" rx="8" fill="#e8fbf8" stroke="#1f8a7a" stroke-width="2"/>
+      <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#1f8a7a" text-transform="uppercase">Stage 2</text>
+      <text x="15" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">Text Extraction</text>
+      <text x="15" y="70" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">+ Chunking</text>
+      <line x1="15" y1="85" x2="185" y2="85" stroke="#1f8a7a" stroke-width="1" opacity="0.3"/>
+      <text x="15" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Multi-engine extraction</text>
+      <text x="15" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">+ OCR fallback</text>
+    </g>
+
+    <!-- Arrow 2-3 -->
+    <line x1="440" y1="70" x2="480" y2="70" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- STAGE 3 -->
+    <g transform="translate(480,0)">
+      <rect width="200" height="140" rx="8" fill="#f3f0ff" stroke="#6b4fd6" stroke-width="2"/>
+      <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#6b4fd6" text-transform="uppercase">Stage 3</text>
+      <text x="15" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">Relevance Filter</text>
+      <line x1="15" y1="65" x2="185" y2="65" stroke="#6b4fd6" stroke-width="1" opacity="0.3"/>
+      <text x="15" y="85" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Keyword gate</text>
+      <text x="15" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Vector similarity (cos ≥ 0.55)</text>
+      <text x="15" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">LLM classifier</text>
+    </g>
+
+    <!-- Arrow 3-4 -->
+    <line x1="680" y1="70" x2="720" y2="70" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    
+    <!-- STAGE 4 -->
+    <g transform="translate(720,0)">
+      <rect width="200" height="140" rx="8" fill="#fff3e8" stroke="#c46a17" stroke-width="2"/>
+      <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#c46a17" text-transform="uppercase">Stage 4</text>
+      <text x="15" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">KG Extraction</text>
+      <line x1="15" y1="65" x2="185" y2="65" stroke="#c46a17" stroke-width="1" opacity="0.3"/>
+      <text x="15" y="85" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Structured extraction</text>
+      <text x="15" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Entities + Relations</text>
+      <text x="15" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Provenance-linked evidence</text>
+    </g>
+
+    <!-- Arrow 4-5 -->
+    <line x1="920" y1="70" x2="960" y2="70" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- STAGE 5 -->
+    <g transform="translate(960,0)">
+      <rect width="200" height="140" rx="8" fill="#f2f2f2" stroke="#444" stroke-width="2"/>
+      <text x="15" y="25" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="bold" fill="#444" text-transform="uppercase">Stage 5</text>
+      <text x="15" y="50" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="bold" fill="#111">KG Cleanup</text>
+      <line x1="15" y1="65" x2="185" y2="65" stroke="#444" stroke-width="1" opacity="0.3"/>
+      <text x="15" y="85" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Entity Resolution</text>
+      <text x="15" y="105" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Deduplication</text>
+      <text x="15" y="125" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333">Term pruning</text>
+    </g>
+  </g>
+
+  <!-- ======================== MIDDLE LAYER: DATA STORES ======================== -->
+  
+  <!-- Vector Store (Realigned under Stage 3) -->
+  <g transform="translate(780, 360)">
+    <!-- Input Arrow from Stage 3 with stats label -->
+    <path d="M 30 -70 L 30 0" fill="none" stroke="#6b4fd6" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="35" y="-50" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#1a2a6b" font-weight="bold">36 docs / 364 chunks</text>
+    <text x="35" y="-35" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#6b4fd6">(retained + embeddings)</text>
+    
+    <rect width="240" height="100" rx="12" fill="#fff" stroke="#6b4fd6" stroke-width="3"/>
+    <text x="120" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#111" text-anchor="middle">Vector Evidence Store</text>
+    <text x="120" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#555" text-anchor="middle">Embedded Text Chunks</text>
+    <!-- Cylinder details -->
+    <line x1="20" y1="15" x2="220" y2="15" stroke="#6b4fd6" stroke-width="1" opacity="0.2"/>
+    <line x1="20" y1="85" x2="220" y2="85" stroke="#6b4fd6" stroke-width="1" opacity="0.2"/>
+  </g>
+
+  <!-- Knowledge Graph Store (Shifted right to balance removal of right panel) -->
+  <g transform="translate(1150, 360)">
+    <!-- Input Arrow 1: From Stage 4 (Structured Extraction) -->
+    <!-- UPDATED to avoid overlap with Vector Store -->
+    <!-- Shifted start point right to -50 relative to 1150 (x=1100), ensuring it clears the Vector Store (ends at 1020) -->
+    <path d="M -50 -70 L 60 0" fill="none" stroke="#c46a17" stroke-width="2" marker-end="url(#arrow)"/>
+    <!-- UPDATED Text position to align with new arrow path -->
+    <text x="0" y="-35" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#c46a17" font-weight="bold" text-anchor="middle" transform="rotate(-15 0,-35)">Extracted nodes + relations</text>
+
+    <!-- Input Arrow 2: From Stage 5 (KG Cleanup) -->
+    <!-- Stage 5 absolute center x approx 1390. KG box center 1270. -->
+    <path d="M 140 -70 L 180 0" fill="none" stroke="#444" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="170" y="-30" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#444" font-weight="bold" text-anchor="start" transform="rotate(20 170,-30)">Cleaned / resolved graph</text>
+
+    <rect width="240" height="100" rx="12" fill="#fff" stroke="#c46a17" stroke-width="3"/>
+    <text x="120" y="40" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="bold" fill="#111" text-anchor="middle">Knowledge Graph</text>
+    <text x="120" y="70" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#555" text-anchor="middle">Nodes + Structured Relations</text>
+    <!-- Cylinder details -->
+    <line x1="20" y1="15" x2="220" y2="15" stroke="#c46a17" stroke-width="1" opacity="0.2"/>
+    <line x1="20" y1="85" x2="220" y2="85" stroke="#c46a17" stroke-width="1" opacity="0.2"/>
+  </g>
+
+  <!-- ======================== LOWER MIDDLE: QUERY ENGINE ======================== -->
+  
+  <g transform="translate(750, 520)">
+    <!-- Engine Box -->
+    <rect x="0" y="0" width="600" height="120" rx="12" fill="#e9f8ef" stroke="#1f7a3d" stroke-width="2"/>
+    
+    <!-- Title + Stage Label -->
+    <text x="300" y="30" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="bold" fill="#111" text-anchor="middle">Governance Backend &amp; Query Engine <tspan fill="#1f7a3d" font-size="16">(STAGE 6)</tspan></text>
+    
+    <!-- Inner Logic -->
+    <g transform="translate(60, 50)">
+       <rect width="220" height="50" rx="6" fill="#fff" stroke="#1f7a3d" stroke-width="1"/>
+       <text x="110" y="20" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">Graph Traversal</text>
+       <text x="110" y="40" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555" text-anchor="middle">(Pathways/Subgraphs)</text>
+    </g>
+    
+    <text x="300" y="80" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#1f7a3d" text-anchor="middle">+</text>
+
+    <g transform="translate(320, 50)">
+       <rect width="220" height="50" rx="6" fill="#fff" stroke="#1f7a3d" stroke-width="1"/>
+       <text x="110" y="20" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="bold" fill="#333" text-anchor="middle">Evidence Retrieval</text>
+       <text x="110" y="40" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555" text-anchor="middle">(Supporting Clauses)</text>
+    </g>
+
+    <!-- Connectors from Stores to Engine -->
+    <!-- Vector Store (Above Left) -->
+    <path d="M 150 -60 L 150 0" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    <!-- KG Store (Above Right) -->
+    <!-- Adjusted for new KG store position (x=1150 relative to root, engine at x=750 relative to root. -->
+    <!-- KG relative to engine: 1150-750 = 400. Width 240. Center = 520 -->
+    <!-- Engine center for input is roughly 450 inside the group. -->
+    <path d="M 520 -60 L 520 -30 L 450 0" fill="none" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- ======================== BOTTOM ROW: OUTPUTS ======================== -->
+
+  <g transform="translate(100, 720)">
+    <!-- Main arrow down from engine -->
+    <!-- UPDATED: Extended arrow down to y2="-20" to close the gap with the distribution line -->
+    <line x1="950" y1="-80" x2="950" y2="-20" stroke="#333" stroke-width="3" marker-end="url(#arrow)"/>
+    <text x="960" y="-60" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#333" font-weight="bold">Analytics outputs (queries + reports)</text>
+    
+    <!-- Distribution Line -->
+    <path d="M 150 -20 L 1250 -20" fill="none" stroke="#333" stroke-width="2"/>
+    <line x1="150" y1="-20" x2="150" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="516" y1="-20" x2="516" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="883" y1="-20" x2="883" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+    <line x1="1250" y1="-20" x2="1250" y2="20" stroke="#333" stroke-width="2" marker-end="url(#arrow)"/>
+
+    <!-- Output 1 -->
+    <g transform="translate(0, 30)">
+      <rect width="300" height="110" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+      <text x="150" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">Governance Pathways</text>
+      <text x="150" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Authority → Instrument →</text>
+      <text x="150" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Requirement → Outcome</text>
+      <text x="150" y="95" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#777" text-anchor="middle" font-style="italic">(graph traversal + evidence)</text>
+    </g>
+
+    <!-- Output 2 -->
+    <g transform="translate(366, 30)">
+      <rect width="300" height="110" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+      <text x="150" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">Jurisdiction Comparison</text>
+      <text x="150" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Coverage &amp; Consistency</text>
+      <text x="150" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Fragmentation analysis</text>
+      <text x="150" y="95" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#777" text-anchor="middle" font-style="italic">(coverage/fragmentation metrics)</text>
+    </g>
+
+    <!-- Output 3 -->
+    <g transform="translate(733, 30)">
+      <rect width="300" height="110" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+      <text x="150" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">Gap Analysis</text>
+      <text x="150" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Barriers lacking enablers</text>
+      <text x="150" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Missing practices</text>
+      <text x="150" y="95" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#777" text-anchor="middle" font-style="italic">(barriers without enablers/treatments)</text>
+    </g>
+
+    <!-- Output 4 -->
+    <g transform="translate(1100, 30)">
+      <rect width="300" height="110" rx="8" fill="#fff" stroke="#333" stroke-width="2"/>
+      <text x="150" y="30" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="bold" fill="#111" text-anchor="middle">Entity Explorer</text>
+      <text x="150" y="55" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Definitions + Evidence</text>
+      <text x="150" y="75" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#555" text-anchor="middle">Linked instruments</text>
+      <text x="150" y="95" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#777" text-anchor="middle" font-style="italic">(definitions + linked instruments)</text>
+    </g>
+  </g>
+
+</svg>

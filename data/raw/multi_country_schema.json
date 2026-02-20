@@ -1,0 +1,131 @@
+{
+  "version": "1.0",
+  "description": "Circular Construction Governance Knowledge Graph \u2014 Multi-Country Schema",
+  "countries": {
+    "AU": {
+      "full_name": "Australia",
+      "status": "complete",
+      "corpus_size": 355
+    },
+    "UK": {
+      "full_name": "United Kingdom",
+      "status": "planned",
+      "corpus_size": 0
+    },
+    "CA": {
+      "full_name": "Canada",
+      "status": "planned",
+      "corpus_size": 0
+    }
+  },
+  "entity_types": {
+    "Instrument": {
+      "description": "Named policy, law, standard, guideline, framework, or code"
+    },
+    "Authority": {
+      "description": "Named organisation that creates, administers, or enforces instruments"
+    },
+    "Jurisdiction": {
+      "description": "Geographic or political area where instruments apply"
+    },
+    "Requirement": {
+      "description": "Specific obligation, mandate, or criterion within an instrument"
+    },
+    "Practice": {
+      "description": "Specific action, method, or approach in construction/deconstruction"
+    },
+    "MaterialAsset": {
+      "description": "Specific material, component, waste stream, or physical resource"
+    },
+    "Stakeholder": {
+      "description": "Category of actor (person/organisation role) in the domain"
+    },
+    "Barrier": {
+      "description": "Specific obstacle, challenge, or impediment"
+    },
+    "Enabler": {
+      "description": "Specific factor that facilitates or supports a practice"
+    },
+    "OutcomeMetric": {
+      "description": "Specific measurable result, target, or KPI"
+    }
+  },
+  "relation_types": {
+    "ISSUED_BY": {
+      "description": ""
+    },
+    "APPLIES_IN": {
+      "description": ""
+    },
+    "APPLIES_TO": {
+      "description": ""
+    },
+    "REQUIRES": {
+      "description": ""
+    },
+    "PROHIBITS": {
+      "description": ""
+    },
+    "REFERENCES": {
+      "description": ""
+    },
+    "INVOLVES": {
+      "description": ""
+    },
+    "PRODUCES": {
+      "description": ""
+    },
+    "BARRIERS": {
+      "description": ""
+    },
+    "ENABLES": {
+      "description": ""
+    },
+    "AFFECTS": {
+      "description": ""
+    }
+  },
+  "node_schema": {
+    "required": [
+      "node_id",
+      "entity_type",
+      "name",
+      "name_norm",
+      "country"
+    ],
+    "optional": [
+      "country_full",
+      "is_registry",
+      "chunk_count",
+      "surface_forms",
+      "first_seen_chunk",
+      "first_seen_source",
+      "first_seen_page",
+      "example_evidence"
+    ]
+  },
+  "edge_schema": {
+    "required": [
+      "edge_id",
+      "subject_id",
+      "predicate",
+      "object_id",
+      "country"
+    ],
+    "optional": [
+      "chunk_id",
+      "source_file",
+      "page_num",
+      "judge_label",
+      "statement_confidence",
+      "evidence_excerpt"
+    ]
+  },
+  "extraction_pipeline": {
+    "method": "Three-pass LLM extraction with entity registry",
+    "pass_1_model": "claude-haiku-4-5",
+    "pass_2_model": "claude-sonnet-4-5",
+    "pass_3_model": "claude-sonnet-4-5",
+    "cleanup_model": "claude-sonnet-4-5"
+  }
+}
